@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>code-i</title>
+<style>
+       .navbar{
+           background-color:grey;
+           border-radius:89px
+           
+       }
+       .navbar ul{
+           overflow:auto;
+       }
+       .navbar ul input{
+           border-radius:89px;
+           border:2px solid black
+           padding:3px;
+           width:200px
+       }
+       .navbar li{
+           float:left;
+           list-style: none;
+           margin:13px 3px;
+       }
+       .navbar li a{
+           padding:3px 3px;
+           text-decoration:none;
+           color:white
+       }
+</style>
+<head>
+<body>
+<header>
+<nav class="navbar">
+<ul>
+<li><a href="/storage/emulated/0/Codes/home/works.html">home</a> </li>
+<li><a href="#works">works</a></li>
+<li><a href="#codes">codes</a></li>
+<li><a href="#contact us"> contact us</a> </li>
+<div class="search box">
+<input type="text"name="search"id="search"placeholder="🔎   search box">
+</div>
+</ul>
+</nav>
+</header>
+</body>
+</html>
